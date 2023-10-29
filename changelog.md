@@ -3,6 +3,16 @@ title: ChangeLogs
 description: Changes based on release version
 ---
 
+<b>Matrixx v-9.0 Changelog:</b>
+- Bump Matrixx release version to v-9.0
+- Fixed AOD/Night Light/Extra Dim schedule isn't working
+- Fixed battery drain due to false pixel system update attempts
+- Fixed extra GApps addons flashing failed due to no system space
+- Fixed Dialer crash on call
+- Added back more notifications option in GameSpace
+- Rebased kernel
+- Kernel upstream to v5.4.259
+
 <b>Matrixx v-8.0 Changelog:</b>
 - Bump Matrixx release version to v-8.0
 - Merged October 2023 Security patch
