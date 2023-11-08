@@ -9,7 +9,7 @@ relative_links:
 include:
   - changelog.html
   - devices.html
-  - hotdog.md
-  - hotdogb.md
-  - lemonade.md
-  - lemonadep.md
+  - oneplus/hotdog.md
+  - oneplus/hotdogb.md
+  - oneplus/lemonade.md
+  - oneplus/lemonadep.md

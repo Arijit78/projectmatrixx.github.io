@@ -2,7 +2,7 @@
 title: Oneplus 9 (lemonade)
 description: Brought to you by TechMatrixx
 ---
-<a href="#"><img align="center" img src="assets/installation.png" /></a>
+<a href="#"><img align="center" img src="/assets/installation.png" /></a>
 
 **Before start flashing.....**
 - Backup all your data to any external source. 

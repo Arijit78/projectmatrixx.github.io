@@ -1,13 +1,13 @@
 ---
-title: Oneplus 7t Pro (hotdog)
+title: Oneplus 7t (hotdogb)
 description: Brought to you by TechMatrixx
 ---
-<a href="#"><img align="center" img src="assets/installation.png" /></a>
+<a href="#"><img align="center" img src="/assets/installation.png" /></a>
 
 **Before start flashing.....**
 - Backup all your data to any external source
 - If using custom rom, Make sure you're using OOS 12 base
-- If you're on OOS, update to OOS 12
+- If you're on OOS, update to OOS 12 
 - Gapps included so no need to flash/sideload GApps
 
 **Clean Flash:**
@@ -25,6 +25,6 @@ description: Brought to you by TechMatrixx
 3. Open command prompt & sideload rom using command ```adb sideload <rom_filename>.zip```
 4. Reboot
 
-Download Link : [**Official Download Link for hotog**](https://sourceforge.net/projects/projectmatrixx/files/Android-13/hotdog/)
+Download Link : [**Official Download Link for hotogb**](https://sourceforge.net/projects/projectmatrixx/files/Android-13/hotdogb/)
 
 [Back](./)

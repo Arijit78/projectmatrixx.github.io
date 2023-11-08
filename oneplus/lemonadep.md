@@ -1,17 +1,17 @@
 ---
-title: Oneplus 7t (hotdogb)
+title: Oneplus 9 Pro (lemonadep)
 description: Brought to you by TechMatrixx
 ---
-<a href="#"><img align="center" img src="assets/installation.png" /></a>
+<a href="#"><img align="center" img src="/assets/installation.png" /></a>
 
 **Before start flashing.....**
-- Backup all your data to any external source
-- If using custom rom, Make sure you're using OOS 12 base
-- If you're on OOS, update to OOS 12 
+- Backup all your data to any external source. 
+- Update your device to OOS 13.1
+- Firmware already included
 - Gapps included so no need to flash/sideload GApps
 
 **Clean Flash:**
-1. Download & Extract recovery package zip
+1. Extract recovery package zip
 2. Reboot to bootloader & connect your phone to PC
 3. Double click on __flash.bat__
 4. Reboot to recovery & Factory reset > Format data/factory reset
@@ -25,6 +25,6 @@ description: Brought to you by TechMatrixx
 3. Open command prompt & sideload rom using command ```adb sideload <rom_filename>.zip```
 4. Reboot
 
-Download Link : [**Official Download Link for hotogb**](https://sourceforge.net/projects/projectmatrixx/files/Android-13/hotdogb/)
+Download Link : [**Official Download Link for lemonadep**](https://sourceforge.net/projects/projectmatrixx/files/Android-13/lemonadep/)
 
 [Back](./)

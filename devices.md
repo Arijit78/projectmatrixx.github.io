@@ -2,14 +2,22 @@
 title: Official Devices
 description: Our current official devices
 ---
-<a href="#"><img src="assets/oneplus/oneplus.webp" height="60" /></a>
 
-[<img src="assets/oneplus/hotdogb.webp" height="40" />](hotdogb.md)
+### Xiaomi/Redmi/Poco Devices
+[Poco F5/Redmi Note 12 Turbo (marble)](mi/marble.md)
+
+----
+
+### OnePlus Devices
+
+[OnePlus 7t (hotdogb)](oneplus/hotdogb.md)
  
-[<img src="assets/oneplus/hotdog.webp" height="40" />](hotdog.md)
+[OnePlus 7t Pro (hotdog)](oneplus/hotdog.md)
 
-[<img src="assets/oneplus/lemonade.webp" height="40" />](lemonade.md)
+[OnePlus 9 (lemonade)](oneplus/lemonade.md)
 
-[<img src="assets/oneplus/lemonadep.webp" height="40" />](lemonadep.md)
+[OnePlus 9 Pro (lemonadep)](oneplus/lemonadep.md)
+
+----
 
 [Back](./)
