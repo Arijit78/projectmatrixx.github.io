@@ -11,9 +11,9 @@ description: Brought to you by TechMatrixx
 - Gapps included so no need to flash/sideload GApps
 
 **Clean Flash:**
-1. Download & Extract recovery package zip
+1. Download recovery image
 2. Reboot to bootloader & connect your phone to PC
-3. Double click on __flash.bat__
+3. type command ```fastboot flash recovery recovery.img```
 4. Reboot to recovery & Factory reset > Format data/factory reset
 5. Back to recovery home page & tap > Apply update > Apply from ADB
 5. Now sideload rom using command ```adb sideload <rom_filename>.zip```
